@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GeocoderSearchResponse>
+	<status>0</status>
+	<result>
+		<location>
+			<lng>116.293815325</lng>
+			<lat>40.0529911395</lat>
+		</location>
+		<precise>0</precise>
+		<confidence>40</confidence>
+		<comprehension>100</comprehension>
+	</result>
+</GeocoderSearchResponse>

@@ -1,0 +1,142 @@
+<div>
+    <includetail>
+      <div class="WordSection1">
+            <div>
+                <p class="MsoNormal" style="mso-line-height-alt:0pt">
+
+                <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;background:white;border-collapse:collapse" id="table-parent">
+                  <tbody>
+                    <tr>
+                      <td style="padding:0cm 0cm 0cm 0cm" id="td-parent"><div align="center">
+                        <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="600" style="width:300.0pt;border-collapse:collapse;table-width:fixed">
+                          <tbody>
+                            <tr>
+                              <td style="padding:0cm 0cm 0cm 0cm;width:600px!important"><div align="center">
+                                <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="900" style="width:450.0pt;background:#F1F3F4;border-collapse:collapse;border:none;min-width:600px;max-width:600px">
+                                  <tbody>
+                                    <tr>
+                                      <td style="border:solid #F1F3F4 1.5pt;padding:0cm 0cm 0cm 0cm"><div id="email">
+                                        <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="900" style="width:450.0pt;border-collapse:collapse">
+                                          <tbody>
+                                            <tr>
+                                              <td width="100%" valign="top" style="width:100.0%;background:white;padding:0cm 0cm 0cm 0cm"><div align="center">
+                                                <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td width="50%" valign="top" style="width:50.0%;padding:0cm 0cm 0cm 15.0pt"><p class="MsoNormal"> <span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> <img border="0" height="45" id="_x0000_i1025" src="http://www.dataivy.cn/book/python_analysis_basic/googlelogo_color_84x28dp.png" />
+                                                        <o:p> </o:p>
+                                                      </span> </p></td>
+                                                      <td width="50%" valign="top" style="width:50.0%;padding:0cm 15.0pt 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"> <span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> <img border="0" height="45" id="_x0000_i1026" src="http://www.dataivy.cn/book/python_analysis_basic/analytics_template.png" />
+                                                        <o:p> </o:p>
+                                                      </span> </p></td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                              </div></td>
+                                            </tr>
+                                            <tr>
+                                              <td width="100%" valign="top" style="width:100.0%;background:#F1F3F4;padding:15.0pt 15.0pt 15.0pt 15.0pt"><div align="center">
+                                                <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td width="100%" valign="top" style="width:100.0%;border:solid #EEF0F1 1.0pt;background:white;padding:0cm 0cm 0cm 0cm"><div align="center">
+                                                        <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse">
+                                                          <tbody>
+                                                            <tr>
+                                                              <td width="100%" style="width:100.0%;padding:18.75pt 22.5pt 0cm 22.5pt"><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse">
+                                                                <tbody>
+                                                                  <tr>
+                                                                    <td width="100%" style="width:100.0%;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center;line-height:31.5pt"> <span lang="EN-US" style="font-size:22.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#3C4043"> 昨日广告效果投放表现正常
+                                                                      <o:p> </o:p>
+                                                                    </span> </p></td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                    <td width="95%" valign="top" style="width:95.0%;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="line-height:19.5pt"> <span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#5F6368"> 昨日(2019年9月28日)全站广告流量201万，跳出率35%，ROI12.9。
+                                                                      <o:p> </o:p>
+                                                                    </span> </p></td>
+                                                                  </tr>
+                                                                </tbody>
+                                                              </table></td>
+                                                            </tr>
+                                                            <tr>
+                                                              <td style="padding:15.0pt 22.5pt 15.0pt 22.5pt;border-radius:3px"><div align="center">
+                                                                <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="247" style="width:123.5pt">
+                                                                  <tbody>
+                                                                    <tr style="height:30.75pt">
+                                                                      <td width="375" nowrap="nowrap" style="width:187.5pt;background:#4285F4;padding:0cm 0cm 0cm 0cm;height:30.75pt;display:inline-block;-webkit-text-size-adjust:none"><div>
+                                                                        <p class="MsoNormal" align="center" style="text-align:center"> <span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> <b> <span style="color:white"> <a href="https://www.google.com/appserve/mkt/p/AFnwnKXwuXIVeCXV8nTGq-IOXfo6LShHzUImBtCgr-u4eSzbU15RboTAOaUGZma74EL_8nhwZVPs3-Le6PzSIs-GJhCmjn8FT5df_kR9f3pYI_JXQ1XSuPmadhKaJQxkw_dvgpEJlj1JfXWYuFQtMTwGXEnvrQnll77wZXUgPDhLuCt3JD8uZNHu1QwMIzbx5f6HXfbxZrEmsxDRJKPXk4EzfM4FLH8YIq-uOaf37PovuipaF1P0XDqbeM29XzZtG8c4NgQe67p5n84ako1dDswTpOEYOeNPtogUNkFRKZyvHxYZKax1OavapXl-RRvd-Ps7WrSxL7jhK4fFchaQORcJPiyUK_mBPQ" target="_blank"> 点击查看所有数据 </a> </span> </b>
+                                                                          <o:p> </o:p>
+                                                                        </span> </p>
+                                                                      </div></td>
+                                                                    </tr>
+                                                                  </tbody>
+                                                                </table>
+                                                              </div></td>
+                                                            </tr>
+                                                            <tr>
+                                                              <td style="padding:0cm 0cm 0cm 0cm"></td>
+                                                            </tr>
+                                                            <tr>
+                                                              <td style="padding:0cm 0cm 0cm 0cm"><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse">
+                                                                <tbody>
+                                                                  <tr>
+                                                                    <td width="93%" valign="top" style="width:93.0%;padding:0cm 22.5pt 0cm 22.5pt"><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse">
+                                                                      <tbody>
+                                                                        <tr>
+                                                                          <td width="30" valign="top" style="width:15.0pt;padding:.75pt .75pt 3.75pt .75pt"><p class="MsoNormal" style="line-height:18.0pt"> <b> <span lang="EN-US" style="font-size:17.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#FBBC05"> •
+                                                                            <o:p> </o:p>
+                                                                          </span> </b> </p></td>
+                                                                          <td width="95%" valign="top" style="width:95.0%;padding:0cm 0cm 0cm 0cm;-premailer-valign:top;-premailer-width:95%"><p class="MsoNormal" style="line-height:18.0pt"> <span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#5F6368"> 广告流量主要来源于品牌词、竞品词，占比28%，ROI为25.3。
+                                                                            <o:p> </o:p>
+                                                                          </span> </p></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                          <td width="30" valign="top" style="width:15.0pt;padding:.75pt .75pt 3.75pt .75pt"><p class="MsoNormal" style="line-height:18.0pt"> <b> <span lang="EN-US" style="font-size:17.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#FBBC05"> •
+                                                                            <o:p> </o:p>
+                                                                          </span> </b> </p></td>
+                                                                          <td width="95%" valign="top" style="width:95.0%;padding:0cm 0cm 0cm 0cm;-premailer-valign:top;-premailer-width:95%"><p class="MsoNormal" style="line-height:18.0pt"> <span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#5F6368"> 商品新词表现较差，流量占比18%，ROI仅为3.6。
+                                                                            <o:p> </o:p>
+                                                                          </span> </p></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                          <td width="30" valign="top" style="width:15.0pt;padding:.75pt .75pt 3.75pt .75pt"><p class="MsoNormal" style="line-height:18.0pt"> <b> <span lang="EN-US" style="font-size:17.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#FBBC05"> •
+                                                                            <o:p> </o:p>
+                                                                          </span> </b> </p></td>
+                                                                          <td width="95%" valign="top" style="width:95.0%;padding:0cm 0cm 0cm 0cm;-premailer-valign:top;-premailer-width:95%"><p class="MsoNormal" style="line-height:18.0pt"> <span style="color: rgb(95, 99, 104); font-family: Arial, sans-serif;"> 广告流量对SEO品牌词以及全站拉动比为1.3%，同比提升3.6%。 </span> </p></td>
+                                                                        </tr>
+                                                                      </tbody>
+                                                                    </table></td>
+                                                                  </tr>
+                                                                </tbody>
+                                                              </table></td>
+                                                            </tr>
+                                                          </tbody>
+                                                        </table>
+                                                      </div></td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                              </div></td>
+                                            </tr>
+                                            <tr>
+                                              <td width="100%" valign="top" style="width:100.0%;background:white;padding:10pt 0cm 10pt 0cm"><div align="center"> 该邮件为触脉 (北京) 咨询有限公司提供，仅供**内部参考，请勿外传</div></td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </div></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </div></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div></td>
+                    </tr>
+                  </tbody>
+                </table>
+
+            </div>
+        </div>
+    </includetail>
+</div>

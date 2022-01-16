@@ -1,0 +1,1 @@
+1.带有MKL模块的Numpy包：http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
