@@ -5,4 +5,4 @@
 - Author：FangWei
 - Program developer environment：Windows DEV Channel , Build 22533.1001 ( or higher ) 64 bits
 - Python version：64位 3.10.1
-- Develop software：PyCharm 2021.2.4 (Professional Edition)
+- Develop software：PyCharm 2021.3.1 (Professional Edition)
