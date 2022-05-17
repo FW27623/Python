@@ -444,6 +444,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\source code\chapter2\exp2_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
